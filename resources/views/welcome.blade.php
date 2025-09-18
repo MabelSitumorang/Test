@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    hello
+    <h1>Welcome to Laravel</h1>
+    <p>This is the welcome page.</p>
 </body>
 </html>
